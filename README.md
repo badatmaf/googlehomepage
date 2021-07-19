@@ -1,14 +1,15 @@
 # googlehomepage
-The Odin Project-googlehomepage project__
-What I've learned:__
+The Odin Project-googlehomepage project
 
-finally getting know the difference between padding and margin!__
-front-end is not for me (probably, though I have enjoyed this project)__
-You can say that my CSS understanding/skills "exists"__
+What I've learned:
 
-What I could have done better:__
+-finally getting know the difference between padding and margin!\
+-front-end is not for me (probably, though I have enjoyed this project)\
+-You can say that my CSS understanding/skills "exists"
 
-sizing/spacing of the elements relative to the page size__
-hover effect over the search bar__
-sizing and spacing of images__
-some spacing of elements in general.__
+What I could have done better:
+
+-sizing/spacing of the elements relative to the page size\
+-hover effect over the search bar\
+-sizing and spacing of images\
+-some spacing of elements in general.
