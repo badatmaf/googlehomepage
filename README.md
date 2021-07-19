@@ -1,6 +1,8 @@
 # googlehomepage
 The Odin Project-googlehomepage project
 
+demo: https://potsju.github.io/googlehomepage/
+
 What I've learned:
 
 -finally getting know the difference between padding and margin!\
@@ -13,3 +15,4 @@ What I could have done better:
 -hover effect over the search bar\
 -sizing and spacing of images\
 -some spacing of elements in general.
+
